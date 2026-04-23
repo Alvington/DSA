@@ -64,7 +64,7 @@ int main() {
     char choice;
     scanf(" %c", &choice);
 
-    while (choice != 'q') // 'q' for quit
+    while (choice != 'q')
     {
         if (choice == 'a') {
             clock_t start = clock();
