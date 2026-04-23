@@ -1,3 +1,6 @@
+//Mellisa Stephanie	SCT221-0184/2024
+//Alvin Mutahi	SCT221-0089/2024
+
 import time
 numbers = []
 def linearSearch(array, key):
