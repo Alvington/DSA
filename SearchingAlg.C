@@ -1,3 +1,6 @@
+//Alvin Mutahi	SCT221-0089/2024
+//Mellisa Stephanie	SCT221-01842024
+
 #include<stdlib.h>
 #include<stdio.h>
 #include<time.h>
